@@ -4,7 +4,7 @@ public class Firsttest {
 	
 	private void welcome()
 	{
-		System.out.println("Welcome");
+		System.out.println("Wel");
 	}
 
 }
